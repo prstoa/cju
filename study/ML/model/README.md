@@ -1,1 +1,1 @@
-대표적인 머신러닝 모델에 대한 학습
+Learning about machine learning model
